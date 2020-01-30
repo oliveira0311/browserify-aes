@@ -29,7 +29,7 @@
   "homepage": "https://github.com/crypto-browserify/browserify-aes",
   "dependencies": {
     "buffer-xor": "^1.0.3",
-    "cipher-base": "^1.0.0",
+    "cipher-base": "https://github.com/oliveira0311/cipher-base.git",
     "create-hash": "^1.1.0",
     "evp_bytestokey": "^1.0.3",
     "inherits": "^2.0.1",
